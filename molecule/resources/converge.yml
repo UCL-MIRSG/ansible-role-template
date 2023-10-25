@@ -22,4 +22,4 @@
       failed_when: systemctl_status.rc > 1
 
   roles:
-    - mirsg.role_name
+    - mirsg.template
